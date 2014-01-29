@@ -1,0 +1,15 @@
+{
+  "name": "semblance.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cfsghost/semblance.js",
+  "authors": [
+    "Fred Chien <cfsghost@gmail.com>"
+  ],
+  "description": "Web Component Framework",
+  "main": "lib/semblance.min.js",
+  "keywords": [
+    "web",
+    "component"
+  ],
+  "license": "MIT"
+}
